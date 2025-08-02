@@ -1,0 +1,17 @@
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\bin\Debug\net8.0-windows\AplicativoDeBatePapo.exe
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\bin\Debug\net8.0-windows\AplicativoDeBatePapo.deps.json
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\bin\Debug\net8.0-windows\AplicativoDeBatePapo.runtimeconfig.json
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\bin\Debug\net8.0-windows\AplicativoDeBatePapo.dll
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\bin\Debug\net8.0-windows\AplicativoDeBatePapo.pdb
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.Form1.resources
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.csproj.GenerateResource.cache
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.sourcelink.json
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.dll
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\refint\AplicativoDeBatePapo.dll
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.pdb
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\AplicativoDeBatePapo.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\ㅤ\C#\AplicativoDeBatePapo\AplicativoDeBatePapo\obj\Debug\net8.0-windows\ref\AplicativoDeBatePapo.dll

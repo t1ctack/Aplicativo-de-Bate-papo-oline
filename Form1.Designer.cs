@@ -40,9 +40,9 @@
             textBoxMeuNome = new TextBox();
             label1 = new Label();
             groupBoxServidor = new GroupBox();
-            label5 = new Label();
-            textBoxPortaDoServidor = new TextBox();
             buttonAplicarConfigServidor = new Button();
+            textBoxPortaDoServidor = new TextBox();
+            label5 = new Label();
             groupBoxMensagens.SuspendLayout();
             groupBoxServidor.SuspendLayout();
             SuspendLayout();
@@ -74,6 +74,7 @@
             buttonEnviarMensagem.TabIndex = 9;
             buttonEnviarMensagem.Text = "Enviar";
             buttonEnviarMensagem.UseVisualStyleBackColor = true;
+            buttonEnviarMensagem.Click += buttonEnviarMensagem_Click;
             // 
             // textBoxPortaDoContato
             // 
@@ -161,6 +162,23 @@
             groupBoxServidor.Text = "Configurações do servidor";
             groupBoxServidor.Enter += groupBoxServidor_Enter;
             // 
+            // buttonAplicarConfigServidor
+            // 
+            buttonAplicarConfigServidor.Location = new Point(16, 60);
+            buttonAplicarConfigServidor.Name = "buttonAplicarConfigServidor";
+            buttonAplicarConfigServidor.Size = new Size(163, 23);
+            buttonAplicarConfigServidor.TabIndex = 2;
+            buttonAplicarConfigServidor.Text = "Aplicar configurações";
+            buttonAplicarConfigServidor.UseVisualStyleBackColor = true;
+            buttonAplicarConfigServidor.Click += buttonAplicarConfigServidor_Click;
+            // 
+            // textBoxPortaDoServidor
+            // 
+            textBoxPortaDoServidor.Location = new Point(133, 24);
+            textBoxPortaDoServidor.Name = "textBoxPortaDoServidor";
+            textBoxPortaDoServidor.Size = new Size(298, 23);
+            textBoxPortaDoServidor.TabIndex = 1;
+            // 
             // label5
             // 
             label5.AutoSize = true;
@@ -170,29 +188,15 @@
             label5.TabIndex = 0;
             label5.Text = "Porta do servidor: ";
             // 
-            // textBoxPortaDoServidor
-            // 
-            textBoxPortaDoServidor.Location = new Point(133, 24);
-            textBoxPortaDoServidor.Name = "textBoxPortaDoServidor";
-            textBoxPortaDoServidor.Size = new Size(298, 23);
-            textBoxPortaDoServidor.TabIndex = 1;
-            // 
-            // buttonAplicarConfigServidor
-            // 
-            buttonAplicarConfigServidor.Location = new Point(16, 60);
-            buttonAplicarConfigServidor.Name = "buttonAplicarConfigServidor";
-            buttonAplicarConfigServidor.Size = new Size(163, 23);
-            buttonAplicarConfigServidor.TabIndex = 2;
-            buttonAplicarConfigServidor.Text = "Aplicar configurações";
-            buttonAplicarConfigServidor.UseVisualStyleBackColor = true;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(628, 464);
+            ClientSize = new Size(506, 464);
             Controls.Add(groupBoxServidor);
             Controls.Add(groupBoxMensagens);
+            MaximumSize = new Size(522, 503);
+            MinimumSize = new Size(522, 503);
             Name = "Form1";
             Text = "Form1";
             groupBoxMensagens.ResumeLayout(false);

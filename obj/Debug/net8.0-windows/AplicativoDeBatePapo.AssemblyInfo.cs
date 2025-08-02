@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AplicativoDeBatePapo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c386c4c7540715352e479040b95152f5555725a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AplicativoDeBatePapo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AplicativoDeBatePapo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
