@@ -6,5 +6,10 @@ namespace AplicativoDeBatePapo
         {
             InitializeComponent();
         }
+
+        private void groupBoxServidor_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
